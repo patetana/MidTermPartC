@@ -20,6 +20,9 @@
 
 //This messege is dropped for Question number 5
 
+
+//question 6 completed
+
 package midtermexam_versiona_extensioncode;
 
 /**
